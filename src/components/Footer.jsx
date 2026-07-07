@@ -5,7 +5,7 @@ import { SiLeetcode } from 'react-icons/si';
 const socialLinks = [
   { icon: <FiLinkedin className="w-5 h-5" />, url: 'https://www.linkedin.com/in/kamal-jindal-00151a296/', label: 'LinkedIn' },
   { icon: <FiGithub className="w-5 h-5" />, url: 'https://github.com/KamalJindal1047', label: 'GitHub' },
-  { icon: <SiLeetcode className="w-5 h-5" />, url: 'https://leetcode.com/u/kamaljindal/', label: 'LeetCode' },
+  { icon: <SiLeetcode className="w-5 h-5" />, url: 'https://leetcode.com/u/KamalJindal/', label: 'LeetCode' },
   { icon: <FiMail className="w-5 h-5" />, url: 'mailto:kamal.jindal_cs23@gla.ac.in', label: 'Email' },
 ];
 
